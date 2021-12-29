@@ -1,0 +1,18 @@
+.container{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+}
+#display{
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px auto;
+    color: rgb(115, 22, 128);
+}
+.buttons{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
