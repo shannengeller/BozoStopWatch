@@ -59,6 +59,6 @@ function reset(){
     document.getElementById("playPause").innerHTML = "Start";
 }
 
-function addTenMins(){
-    
-}
+// function addTenMins(){
+//     
+// }
